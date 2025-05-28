@@ -1,6 +1,6 @@
 ### 🔒 **GPT Cleaner – Privacy Policy**
 
-**Effective Date**: [28-05-2025]
+**Effective Date**: 28-05-2025
 
 Thank you for using **GPT Cleaner**. This extension is designed to help users clean and simplify the content of webpages for easier readability and better focus.
 
@@ -43,4 +43,4 @@ We may update this Privacy Policy in the future. Any changes will be reflected h
 #### 7\. **Contact**
 
 If you have questions about this privacy policy or your data, contact us at:  
-**\[abhinav33303@gmail.com]**
+**[abhinav33303@gmail.com](mailto:abhinav33303@gmail.com)**
